@@ -1,10 +1,8 @@
-# Getting Started with Create React App
+# Reactjs_List
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Gallery
 
-## Available Scripts
-
-In the project directory, you can run:
+![Screenshot (709)](https://user-images.githubusercontent.com/68727623/159107967-ab02fedc-c190-45eb-b6d2-5867b68bf391.png)
 
 ### `npm start`
 
